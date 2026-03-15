@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "ai": "^6.0.116",
+        "dotenv": "^17.3.1"
+    }
+}
